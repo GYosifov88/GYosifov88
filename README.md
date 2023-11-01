@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GYosifov88
-- 👀 I’m interested in Python, Django, JavaScript, React
-- 🌱 I’m currently learning Python, JavaScript
+- 👀 I’m interested in Python, Django, JavaScript, ReactJS
+- 🌱 I’m currently learning Python, ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gyosifov88@gmail.com
 
